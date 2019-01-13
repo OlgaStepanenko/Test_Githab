@@ -2,3 +2,4 @@ print("Hello, World!");
 print("It`s ok!");
 print("hello!");
 print("Hello, my dear friend");
+print("Glad to see you");
